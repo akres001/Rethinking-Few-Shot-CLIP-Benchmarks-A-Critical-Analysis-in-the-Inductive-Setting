@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+few_shot_out
+remove_files
+validate_models.ipynb
+fine_tune.ipynb
+fine_tune_old.ipynb
+*.txt
+cache
+ssd_importances
+figures
+models_checkpoints
+
