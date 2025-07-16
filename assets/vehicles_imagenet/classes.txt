@@ -1,0 +1,60 @@
+aircraft carrier
+airliner
+airship
+ambulance
+amphibious vehicle
+station wagon
+tandem bicycle
+bobsleigh
+high-speed train
+taxicab
+canoe
+catamaran
+container ship
+convertible
+dog sled
+fireboat
+fire truck
+forklift
+freight car
+garbage truck
+go-kart
+golf cart
+gondola
+half-track
+horse-drawn vehicle
+jeep
+rickshaw
+limousine
+ocean liner
+minibus
+minivan
+missile
+mobile home
+ford model t
+moped
+mountain bike
+railroad car
+pickup truck
+pirate ship
+police van
+race car
+recreational vehicle
+school bus
+schooner
+snowmobile
+snowplow
+sports car
+steam locomotive
+tram
+submarine
+tank
+tow truck
+tractor
+semi-trailer truck
+tricycle
+trimaran
+trolleybus
+unicycle
+military aircraft
+sailboat
