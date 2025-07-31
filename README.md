@@ -4,7 +4,11 @@
 
 <br></br>
 
-<p align="center"> <img src="assets/main_fig.png" alt="mainfig" width="820" /> </p> 
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+    <img src="assets/acc_unlearned_notunlearned.png" alt="First figure" width="600" />
+    <img src="assets/scatter_unlearn_vs_notunlearn_bymethod.png" alt="Second figure" width="300" />
+</div>
 
 This repository contains the reference code for the paper *Rethinking Few Shot CLIP Benchmarks: A Critical Analysis in the Inductive Setting.*
 
