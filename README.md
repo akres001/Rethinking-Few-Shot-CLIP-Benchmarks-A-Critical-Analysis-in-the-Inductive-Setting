@@ -6,8 +6,8 @@
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <img src="assets/acc_unlearned_notunlearned.png" alt="First figure" width="600" />
-    <img src="assets/scatter_unlearn_vs_notunlearn_bymethod.png" alt="Second figure" width="300" />
+    <img src="assets/acc_unlearned_notunlearned.png" alt="First figure" width="500" />
+    <img src="assets/scatter_unlearn_vs_notunlearn_bymethod.png" alt="Second figure" width="250" />
 </div>
 
 This repository contains the reference code for the paper *Rethinking Few Shot CLIP Benchmarks: A Critical Analysis in the Inductive Setting.*
